@@ -1,0 +1,11 @@
+/* app/crawl_schemas/film.json */
+[
+  {
+    "/type/object/mid": null,
+    "/type/object/guid": null,
+    "/type/object/name": null,
+    "/film/film/initial_release_date": null,
+    "/type/object/type": "/film/film",
+    "limit" : 1000
+  }
+]
